@@ -1,4 +1,8 @@
 
+/*
+ * Created By : Hendra Yudiana N
+ * Created At : 1 Oct 2022
+ */
 public class Author {
 	//Attribute
 	private String firstName;
