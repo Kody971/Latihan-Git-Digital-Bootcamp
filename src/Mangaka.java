@@ -25,4 +25,5 @@ public class Mangaka extends Author{
 		return super.toString()+
 				"\nRating : " + rating;
 	}
+	
 }
