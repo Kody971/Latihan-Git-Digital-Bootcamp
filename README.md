@@ -1,4 +1,4 @@
-List Class:
+List Class at Sprint 1:
 
 -Author class
 -Book class
