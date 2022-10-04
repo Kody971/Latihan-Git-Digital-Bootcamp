@@ -1,3 +1,6 @@
+Created By Hendra Yudiana N
+Created at 1 Oct 2022
+
 List Class at Sprint 1:
 
 -Author class
