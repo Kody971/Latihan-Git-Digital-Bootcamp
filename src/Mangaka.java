@@ -1,4 +1,7 @@
-
+/*
+ * Created By : Hendra Yudiana N
+ * Created At : 1 Oct 2022
+ */
 public class Mangaka extends Author{
 	private String rating;
 	
