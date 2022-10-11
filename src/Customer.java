@@ -39,5 +39,8 @@ public class Customer {
 		this.age = age;
 	}
 	
-	
+	public void showInformation() {
+	    System.out.println("Name : " + getName());
+	    System.out.println("Address : " + getAddress() );
+	}
 }
