@@ -39,7 +39,8 @@ public class Customer {
 		this.age = age;
 	}
 	
-	public String getFullName(){
-		return getName() + " " + getAddress();
+	public void showInformantion() {
+	    System.out.println("Name : " + getName());
+	    System.out.println("Address : " + getAddress());
 	}
 }
