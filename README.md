@@ -1,4 +1,4 @@
-Cloned By Ayub Khoirudin from Hendra Yudiana N
+Cloned By Ayub Khoirudin from Hendra Yudiana
 Cloned at 29 Oct 2023
 
 List Class at Sprint 1:
