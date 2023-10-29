@@ -1,7 +1,7 @@
 
 /*
- * Created By : Hendra Yudiana N
- * Created At : 1 Oct 2022
+ * Created By : Ayub Khoirudin
+ * Created At : 29 Oct 2023
  */
 public class Author {
 	//Attribute
@@ -9,7 +9,7 @@ public class Author {
 	private String lastName;
 	private String country;
 	private int age;
-	
+
 	public Author() {
 		// TODO Auto-generated constructor stub
 	}
@@ -20,14 +20,14 @@ public class Author {
 		this.country = country;
 		this.age = age;
 	}
-	
+
 	//Addtitional Method
 	public String getFullName() {
 		return firstName + " " + lastName;
 	};
-	
+
 	public String toString() {
-		
+
 		return "Author Name : " + getFullName();
 	}
 	public String getFirstName() {

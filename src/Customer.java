@@ -3,7 +3,7 @@ public class Customer {
 	private String name;
 	private String address;
 	private int age;
-	
+
 	public Customer() {
 		// TODO Auto-generated constructor stub
 	}
@@ -38,7 +38,7 @@ public class Customer {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	 
+
 	public String getFullName(){
 		return getName() + " " + getAddress();
 	}
